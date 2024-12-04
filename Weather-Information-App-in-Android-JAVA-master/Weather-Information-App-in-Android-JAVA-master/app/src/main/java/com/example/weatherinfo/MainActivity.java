@@ -21,7 +21,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
 
     String CITY;
-    String API = "98ed13acba37b8f64a391fd3a3748865";
+    String API = "040da09bfae0b2b2c635c1d8596b5c39";
     ImageView search;
     EditText etCity;
     TextView city,country,time,temp,forecast,humidity,min_temp,max_temp,sunrises,sunsets,pressure,windSpeed;
